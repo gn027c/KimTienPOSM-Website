@@ -1,0 +1,63 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Kim Tien POSM Development Team
+    Contact: info [at] kimtienposm.com
+    Twitter: @kimtienposm
+    From: Vietnam
+
+# THANKS
+
+    All our valued customers and partners
+    Open source community
+    React.js team
+    Vite team
+    TailwindCSS team
+
+# TECHNOLOGY COLOPHON
+
+    ## Frontend
+    React 18
+    TypeScript
+    Vite
+    TailwindCSS
+    Framer Motion
+    React Router DOM
+    React Helmet Async
+    React Hot Toast
+    Lucide React Icons
+
+    ## Build Tools
+    Vite
+    PostCSS
+    Autoprefixer
+    ESLint
+    Prettier
+
+    ## Hosting & Deployment
+    Vercel / Netlify (recommended)
+    CDN: Cloudflare
+
+    ## Analytics & SEO
+    Google Analytics
+    Google Search Console
+    Structured Data (JSON-LD)
+    Open Graph
+    Twitter Cards
+
+    ## Performance
+    Image Optimization
+    Code Splitting
+    Lazy Loading
+    Service Worker (PWA)
+    Compression (Gzip/Brotli)
+
+# SITE
+
+    Last update: 2024/08/09
+    Language: Vietnamese / English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Version Control: Git

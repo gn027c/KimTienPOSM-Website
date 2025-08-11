@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage Images -->
+  <url>
+    <loc>https://kimtienposm.com/</loc>
+    <image:image>
+      <image:loc>https://kimtienposm.com/logo/logo-lg.png</image:loc>
+      <image:title>Kim Tiền POSM - Logo Chính</image:title>
+      <image:caption>Logo chính thức của Kim Tiền POSM - Đơn vị in ấn POSM hàng đầu Việt Nam</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/logo/logo-sm.png</image:loc>
+      <image:title>Kim Tiền POSM - Logo Nhỏ</image:title>
+      <image:caption>Logo nhỏ của Kim Tiền POSM cho header website</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Partner Logos -->
+  <url>
+    <loc>https://kimtienposm.com/company</loc>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/acecook.png</image:loc>
+      <image:title>Acecook Vietnam - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Acecook Vietnam - Đối tác tin cậy của Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/massan-group.png</image:loc>
+      <image:title>Masan Group - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Masan Group - Đối tác chiến lược của Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/nutifood.svg</image:loc>
+      <image:title>Nutifood - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Nutifood - Đối tác lâu năm của Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/nabati.png</image:loc>
+      <image:title>Nabati - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Nabati - Đối tác quốc tế của Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/kun.png</image:loc>
+      <image:title>Kun - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Kun - Đối tác của Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/partner-logos/unibeen.png</image:loc>
+      <image:title>Unibeen - Đối tác Kim Tiền POSM</image:title>
+      <image:caption>Logo Unibeen - Đối tác của Kim Tiền POSM</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Product Images (placeholder - update with real product images) -->
+  <url>
+    <loc>https://kimtienposm.com/products</loc>
+    <image:image>
+      <image:loc>https://kimtienposm.com/images/products/standee-sample.jpg</image:loc>
+      <image:title>Standee POSM Chất Lượng Cao</image:title>
+      <image:caption>Mẫu standee POSM được sản xuất bởi Kim Tiền POSM với chất lượng cao</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/images/products/banner-sample.jpg</image:loc>
+      <image:title>Banner Quảng Cáo Chuyên Nghiệp</image:title>
+      <image:caption>Banner quảng cáo chất lượng cao được in bởi Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/images/products/carton-box-sample.jpg</image:loc>
+      <image:title>Hộp Carton Đựng Sản Phẩm</image:title>
+      <image:caption>Hộp carton chất lượng cao được sản xuất bởi Kim Tiền POSM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/images/products/wobbler-sample.jpg</image:loc>
+      <image:title>Wobbler Quảng Cáo Tại Điểm Bán</image:title>
+      <image:caption>Wobbler POSM chuyên nghiệp cho điểm bán hàng</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kimtienposm.com/images/products/shelf-talker-sample.jpg</image:loc>
+      <image:title>Shelf Talker Thu Hút Khách Hàng</image:title>
+      <image:caption>Shelf talker hiệu quả cho kệ hàng tại siêu thị</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

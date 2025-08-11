@@ -1,0 +1,89 @@
+# Robots.txt for Kim Tiền POSM
+# Website: https://kimtienposm.com
+# Last updated: 2024-08-11
+
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+# Disallow sensitive or unnecessary paths
+Disallow: /admin/
+Disallow: /api/
+Disallow: /assets/
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /src/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /vite.config.*
+Disallow: /tsconfig.*
+Disallow: /*.log
+Disallow: /temp/
+Disallow: /cache/
+
+# Allow important static assets
+Allow: /logo/
+Allow: /images/
+Allow: /product-images/
+Allow: /partner-logos/
+Allow: /favicon.svg
+Allow: /manifest.json
+
+# Explicitly allow important pages
+Allow: /products
+Allow: /products/
+Allow: /company
+Allow: /faq
+Allow: /contact
+Allow: /quote
+Allow: /blog
+Allow: /blog/
+
+# Sitemap locations
+Sitemap: https://kimtienposm.com/sitemap.xml
+Sitemap: https://kimtienposm.com/sitemap-images.xml
+
+# Host directive for canonicalization
+Host: https://kimtienposm.com

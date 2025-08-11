@@ -1,0 +1,17 @@
+# Security Policy for Kim Tien POSM
+# https://securitytxt.org/
+
+Contact: mailto:security@kimtienposm.com
+Contact: https://kimtienposm.com/contact
+Expires: 2025-08-09T23:59:59.000Z
+Encryption: https://kimtienposm.com/pgp-key.txt
+Acknowledgments: https://kimtienposm.com/security-acknowledgments
+Preferred-Languages: vi, en
+Canonical: https://kimtienposm.com/.well-known/security.txt
+Policy: https://kimtienposm.com/security-policy
+
+# Reporting Guidelines
+# Please report security vulnerabilities responsibly
+# Include detailed steps to reproduce the issue
+# Allow reasonable time for response and remediation
+# Do not access or modify user data without permission
