@@ -1,0 +1,37 @@
+{
+    "name": "kimtien/posm-website",
+    "description": "Kim Tien POSM - Static Website",
+    "type": "project",
+    "version": "1.0.0",
+    "keywords": ["posm", "printing", "marketing", "vietnam"],
+    "homepage": "https://kimtienposm.com",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Kim Tien POSM",
+            "email": "support@kimtienposm.com",
+            "homepage": "https://kimtienposm.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "KimTien\\": "src/"
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "echo 'Kim Tien POSM Website deployed successfully!'"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
